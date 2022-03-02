@@ -1,0 +1,27 @@
+body {
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.header {
+    display: flex;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+.button {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+}
