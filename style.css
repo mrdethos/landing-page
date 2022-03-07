@@ -31,6 +31,22 @@ a {
     color: #F9FAF8;
 }
 
+
+.content {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+    font-size: 24px;
+    color: #E5E7EB;
+    padding: 150px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
 .button {
     background-color: #3882F6;
     border: none;
@@ -40,8 +56,49 @@ a {
     display: inline-block;
     font-size: 22px;
     font-weight: bold;
-    padding: 5px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
     border-radius: 10px;
+}
+
+.image-placeholder {
+    background-color: #959595c7;
+    color: white;
+    text-align: center;
+    padding: 150px;
+    margin: 18px;
+}
+
+
+
+
+
+
+#text-info {
+    color: #1F2937;
+    font-size: 36px;
+    text-align: center;
+}
+
+.information-container {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    gap: 55px;
+    margin: 10px;
+}
+
+.square {
+    border: solid 4px #3882F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 14px;
+}
+
+.info {
+    max-width: 200px;
+    justify-content: center;
+    font-size: 18px;
+    color: #575757;
 }
