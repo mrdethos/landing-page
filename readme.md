@@ -1,1 +1,1 @@
-Simple landing page created for the Odin Project.
+A simple landing page using html and css, created for the Odin Project.
